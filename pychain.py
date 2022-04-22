@@ -71,8 +71,8 @@ class Record:
 class Block:
 
     # @TODO
-    # Rename the `data` attribute to `record`, and set the data type to `Record`
-    data: Any
+    # Renames the `data` attribute to `record`, and set the data type to `Record`
+    record: Record 
 
     creator_id: int
     prev_hash: str = "0"
