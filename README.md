@@ -16,7 +16,7 @@ To use the Blockchain Ledger application, clone or download the repository to yo
 
 You will run the Streamlit application from this terminal instance and run the following command:  streamlit run pychain.py
 
-![Getting Started](streamlit.png)
+![Getting Started](./streamlit.png)
 
 
 
