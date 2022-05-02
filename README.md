@@ -1,5 +1,6 @@
 # Blockchain Ledger
 
+Blockchain Ledger is a blockchain-chain based ledger that will mimic financial transfers between a sender and receiver. The application will demonstrate cryptography concepts used in blockchain technology with the purpose to uphold the integrity of financial transactions. The Streamlit library will be imported into the application to build out a web interface within the python script. The final .py file will run using Streamlit to view the Blockchain Ledger in a web browser end users to add and store data in the blockchain ledger and view all transactions on the blockchain.
 
 ---
 
